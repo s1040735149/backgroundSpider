@@ -1,4 +1,4 @@
-package backgroundSpider
+package main
 
 import (
 	"backGroundSpider/logic"
